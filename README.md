@@ -1,4 +1,4 @@
-##THIS IS A REPO CONTAINING PYTHON DATA ANALYSIS METHODS LIKE NUMPY FUNCTIONS AND PANDAS METHODS WITH DATAFRAMES##
+## THIS IS A REPO CONTAINING PYTHON DATA ANALYSIS METHODS LIKE NUMPY FUNCTIONS AND PANDAS METHODS WITH DATAFRAMES
 
 # My-Top-5-numpy-functions
 These 5 functions are a brief search of mine, on the most useful functions to make useful calculations or other analysis . As an electrical engineering student I found the use of these functions quite necessary.
@@ -7,4 +7,7 @@ Python has been recently developing the way data analysis works and the numpy li
 These functions are a proof of the great use of numpy library in data analysis!
 
 
-RUN THE CELLS ONE BY ONE TO GET AN OUTPUT ! AND OF COURSE HAVE THE JUPYTER NOTEBOOK ALREADY INSTALLED BY THE ANACONDA PROMPT!
+# Pandas practise 
+The second file consists another jupyter notebook with many applications and useful things about pandas datframes and their different  manipulations with data
+
+### The code is executed cell by cell and the output is visible below each cell.Enjoy!
