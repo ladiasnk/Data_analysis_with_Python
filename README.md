@@ -10,4 +10,6 @@ These functions are a proof of the great use of numpy library in data analysis!
 # Pandas practise 
 The second file consists another jupyter notebook with many applications and useful things about pandas datframes and their different  manipulations with data
 
+# The third and last file of this repository consists of a real world dataframe found in a csv file, analysed and visualized using matplotlib and pandas as well as other python features. For more details check the file!!! 
+
 ### The code is executed cell by cell and the output is visible below each cell.Enjoy!
