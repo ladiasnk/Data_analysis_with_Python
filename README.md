@@ -1,4 +1,4 @@
-## THIS IS A REPO CONTAINING PYTHON DATA ANALYSIS METHODS LIKE NUMPY FUNCTIONS AND PANDAS METHODS WITH DATAFRAMES
+## THIS IS A REPO CONTAINING PYTHON DATA ANALYSIS METHODS LIKE NUMPY FUNCTIONS AND PANDAS METHODS WITH DATAFRAMES ALONG WITH A REAL WORLD DATASET(CSV FILE) AND ANALYSIS FOR IT
 
 # My-Top-5-numpy-functions
 These 5 functions are a brief search of mine, on the most useful functions to make useful calculations or other analysis . As an electrical engineering student I found the use of these functions quite necessary.
